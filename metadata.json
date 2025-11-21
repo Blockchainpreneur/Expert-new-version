@@ -1,0 +1,5 @@
+{
+  "name": "Expert.app",
+  "description": "A Generative Streaming Application. Generates custom audiobooks and podcasts on the fly using Gemini models for text, imagery, and speech.",
+  "requestFramePermissions": []
+}
